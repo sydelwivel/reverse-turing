@@ -1,4 +1,4 @@
-# Reverse Turing Test for Bias — Streamlit prototype
+# Reverse Turing Test for Bias 
 
 ## Overview
 Single-process Streamlit prototype for a Reverse Turing Test detecting model bias. Includes:
