@@ -1,0 +1,13 @@
+streamlit>=1.20
+pandas
+numpy
+scipy
+scikit-learn
+matplotlib
+sqlalchemy
+psycopg2-binary
+pymongo
+jinja2
+reportlab
+fairlearn
+aif360

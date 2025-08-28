@@ -1,0 +1,5 @@
+uid,education_school,jobs_employer,skills,gender,gap_years
+1,Harvard,Google,"Python, Leadership, ML",Male,0
+2,Community College,StartupX,"Java, Communication",Female,2
+3,MIT,FAANGCorp,"C++, ML, Data Analysis",Non-binary,1
+4,State University,LocalBiz,"Python, Communication, Leadership",Female,0
